@@ -39,7 +39,6 @@ public:
 			denominator = -denominator;
 			numerator = -numerator;
 		}
-
 	}
 
 	int Numerator() const {
